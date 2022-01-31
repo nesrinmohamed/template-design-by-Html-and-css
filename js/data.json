@@ -1,0 +1,17 @@
+ [
+{"name":"ahmed",
+"age":20,
+"tel":123456
+},
+{
+"name":"mohamed",
+"age":15,
+"tel":true
+},
+
+{
+"name":"yaser",
+"age":10,
+"tel":null
+}
+]
